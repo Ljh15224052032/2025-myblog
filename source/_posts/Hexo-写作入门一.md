@@ -59,3 +59,18 @@ hexo d
 ```
 
 作用: 将生成的静态文件部署到 GitHub Pages 上，使修改后的文章内容生效
+
+补充:
+也可以一次性执行三个命令
+
+```yaml
+hexo clean && hexo generate && hexo server
+```
+
+或
+
+```yaml
+hexo clean
+hexo generate
+hexo server
+```

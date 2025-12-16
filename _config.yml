@@ -3,11 +3,15 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ""
-description: ""
+logo:
+  avatar: "[https://github.com/Ljh15224052032/blog-gulid/blob/main/public/img/avatar.jpg](/about/)" # you can set avatar link in _config.yml or '[https://xxx.png](/about/)'
+  title: "[{config.title}](/)" # you can set html tag like: '[<img no-lazy height="32px" src="xxx"/>](/)'
+  subtitle: "{config.subtitle}" # '文字1 | 文字2' (鼠标放上去会切换到文字2)
+title: AIKaid
+subtitle: "记录成长"
+description: "不断前进，不后退"
 keywords:
-author: John Doe
+author: AIKaid
 language: en
 timezone: ""
 
